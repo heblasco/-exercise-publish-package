@@ -1,5 +1,5 @@
 {
-  "name": "my-awesome-package",
+  "name": "-exercise-publish-package",
   "version": "1.0.0",
   "description": "Test de paquete",
   "main": "index.js"
